@@ -2,15 +2,15 @@
 
 # Screenshots
 
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/0739734f-9c71-4b6f-b691-02decb0844e8" alt="image1" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/10a87a52-cea2-4569-8ebc-e0a4ae5ce7a9" alt="image2" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/b79cb822-5614-49a1-95a9-77b20ef9f01f" alt="image3" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/58178af0-fb7d-4a99-9bf2-0060bf0afb96" alt="image4" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/503e9f85-026e-458f-9dd1-50d988be96ca" alt="image5" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/e7eaf075-0b5d-4746-bd68-2a34f7268638" alt="image6" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/21d02eca-3a77-47c4-b71e-3a8b99747fa9" alt="image7" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/f8a7e4bc-6b6d-4619-8925-710de3af8902" alt="image8" width="400">
-<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/2c5386f2-7ad5-47ce-875e-1e2aacc85716" alt="image9" width="400">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/0739734f-9c71-4b6f-b691-02decb0844e8" alt="image1" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/10a87a52-cea2-4569-8ebc-e0a4ae5ce7a9" alt="image2" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/b79cb822-5614-49a1-95a9-77b20ef9f01f" alt="image3" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/58178af0-fb7d-4a99-9bf2-0060bf0afb96" alt="image4" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/503e9f85-026e-458f-9dd1-50d988be96ca" alt="image5" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/e7eaf075-0b5d-4746-bd68-2a34f7268638" alt="image6" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/21d02eca-3a77-47c4-b71e-3a8b99747fa9" alt="image7" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/f8a7e4bc-6b6d-4619-8925-710de3af8902" alt="image8" width="300">
+<img src="https://github.com/janhavi314121/Quiz-Application/assets/155951124/2c5386f2-7ad5-47ce-875e-1e2aacc85716" alt="image9" width="300">
 
 
 # Overview
